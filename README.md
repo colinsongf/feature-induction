@@ -1,6 +1,6 @@
 # feature-induction
 
-**under construction**
+##under construction
 
 Here we investigate algorithms to perform feature induction for text classification. In particular, we are interested in examples like:
 
